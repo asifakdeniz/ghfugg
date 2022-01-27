@@ -138,7 +138,7 @@ You may not need Node.js right now but you may need it for later. Install [node.
 
 After downloading double click and install
 
-![Install node](images/install_node.png)
+![Install node](images/h.png)
 
 We can check if node is installed on our local machine by opening our device terminal or command prompt.
 
